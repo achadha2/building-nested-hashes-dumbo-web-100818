@@ -23,7 +23,8 @@ def first_challenge
          :attitude => "hot-headed"
        }
       ]
-       }
+    }
+    :capulet =>
      }
    }
 end
